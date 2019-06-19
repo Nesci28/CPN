@@ -1,0 +1,27 @@
+#showcase .showcase-content h1 {
+  font-size: 3rem;
+}
+
+#what {
+  flex-direction: column;
+}
+
+#packages .items {
+  flex-direction: column;
+}
+
+#packages .items .item {
+  margin: 1rem;
+}
+
+#testimonials .testimonials-container {
+  flex-direction: column;
+}
+
+#testimonials .testimonials-container .testimonial {
+  margin: 1rem;
+}
+
+#contact .contact-container {
+  flex-direction: column;
+}
